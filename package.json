@@ -1,0 +1,21 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "firstapi.js",
+  "scripts": {
+    "start": "nodemon firstserver.js"
+  },
+  "keywords": [
+    "Vansh",
+    "Verma"
+  ],
+  "author": "Vansh Verma",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
